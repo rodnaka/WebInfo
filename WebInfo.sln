@@ -3,6 +3,20 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - WebInfo.Presentation", "0 - WebInfo.Presentation", "{CA7AF605-D189-466B-AEA8-AA36AFE61AB0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - WebInfo.Application", "1 - WebInfo.Application", "{5D89B3F0-329B-4F64-A4A4-A933C436DF01}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - WebInfo.Infraestructure", "2 - WebInfo.Infraestructure", "{FCF1199A-A69F-4AA0-9066-73D08692A745}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - WebInfo.Domain", "3 - WebInfo.Domain", "{7EFBAB5B-86B5-4C03-94AA-03729937C383}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - WebInfo.CrossCutting", "4 - WebInfo.CrossCutting", "{DEF7EF1F-E8F7-49AC-9498-78C9FE1C78AF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - WebInfo.Services", "5 - WebInfo.Services", "{C0C5E505-4AD4-41D4-8586-CE8459299E84}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6 - WebInfo.Console", "6 - WebInfo.Console", "{12F29DA8-37B6-48D3-BF7B-477CF52EE632}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
